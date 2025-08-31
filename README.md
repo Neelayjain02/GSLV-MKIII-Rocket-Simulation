@@ -36,9 +36,9 @@ Each stage outputs **altitude, velocity, downrange trajectory, and final stage c
 
 Each stage produces plots like:  
 
--![Stage 1](images/Stage_1.png)
--![Stage 2](images/Stage_2.png)
--![Stage 3](images/Stage_3.png)
+-Stage 1:![Stage 1](images/Stage_1.png)
+-Stage 2:![Stage 2](images/Stage_2.png)
+-Stage 3:![Stage 3](images/Stage_3.png)
 
 ## 📚 Applications  
 
